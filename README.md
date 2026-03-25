@@ -16,7 +16,7 @@ I'm an aspiring Data Engineer passionate about building end-to-end data pipeline
 
 ### 📂 Featured Projects
 
-#### 🔴 [Pokémon Generational Analysis](https://github.com/prajwalhendre/pokemon-analysis)
+#### 🔴 [Pokémon Generational Analysis](https://github.com/prajwalhendre/pokemon-generation-analysis)
 > An end-to-end data pipeline analyzing how Pokémon design has evolved across 9 generations
 
 - Built a full pipeline: raw CSV → Python cleaning → SQLite database → SQL analysis → visualization
