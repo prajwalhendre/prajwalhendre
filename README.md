@@ -1,5 +1,5 @@
-# Hi, I'm Prajwal
-I'm an aspiring Data Analyst and future Data Engineer passionate about building end-to-end data pipelines and uncovering insights through data. Currently building a portfolio of projects that combine Python, SQL, and statistical testing to answer real analytical questions.
+# Hi, I'm Prajwal 😛
+I'm an aspiring Data Analyst and future Data Engineer passionate about building end-to-end data pipelines and uncovering insights through data. Currently building a portfolio of projects that combine Python, SQL, and statistical testing to answer  analytical questions about areas I'm passionate about!
 
 ---
 
@@ -34,9 +34,13 @@ I'm an aspiring Data Analyst and future Data Engineer passionate about building 
 
 ---
 
-### 📈 GitHub Stats
-![Prajwal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prajwalhendre&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalhendre&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook)
+### 📊 What I'm Building Toward
+| Area | Current Level | Next Step |
+|---|---|---|
+| Python | Pandas, SciPy, API calls | Machine Learning |
+| SQL | Joins, window functions, subqueries | Query optimization |
+| Statistics | T-tests, ANOVA, Tukey HSD | Regression modeling |
+| Data Engineering | SQLite pipelines | Cloud (coming soon) |
 
 ---
 
