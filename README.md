@@ -35,8 +35,8 @@ I'm an aspiring Data Analyst and future Data Engineer passionate about building 
 ---
 
 ### 📈 GitHub Stats
-![Prajwal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prajwalhendre&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalhendre&layout=compact&theme=tokyonight&hide_border=true)
+![Prajwal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prajwalhendre&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalhendre&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook)
 
 ---
 
