@@ -26,7 +26,7 @@ I'm an aspiring Data Analyst and future Data Engineer passionate about building 
 - Built a five-view Tableau dashboard with risk tiering, attainment %, fleet overview, and global footprint
 - **Tools:** Python, Pandas, NumPy, Requests, Tableau Public, FAA Aircraft Registry
 
-**[View the Live Dashboard →](https://public.tableau.com/app/profile/prajwal.hendre/viz/Book1_17533820297810/Dashboard1)**
+**[View the Live Dashboard](https://public.tableau.com/views/Book1_17533820297810/AccountAttainmentDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 #### 🎮 [League of Legends Champion Design Analysis](https://github.com/prajwalhendre/lol-champion-analysis)
 > Analyzing how Riot Games' champion design philosophy has evolved since 2009 using live API data, normalized SQL, and statistical testing
